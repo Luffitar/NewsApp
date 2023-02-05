@@ -6,6 +6,7 @@ import android.os.Handler
 import android.os.Looper
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.ui.setupWithNavController
+import com.example.newsapp.R
 import com.example.newsapp.databinding.ActivityMainBinding
 import kotlinx.android.synthetic.main.activity_main.*
 
